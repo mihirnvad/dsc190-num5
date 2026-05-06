@@ -1,6 +1,6 @@
+import os
+import sys
+
 def main():
-    print("Hello from dsc190-num5!")
-
-
-if __name__ == "__main__":
-    main()
+    x=1+2
+    print("Hello from broken code")
