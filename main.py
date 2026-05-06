@@ -1,6 +1,8 @@
-import os
-import sys
-
 def main():
-    x=1+2
-    print("Hello from broken code")
+    x = 1 + 2
+    print(f"Hello from fixed code: {x}")
+
+
+if __name__ == "__main__":
+    main()
+
